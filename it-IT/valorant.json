@@ -1,0 +1,29 @@
+{
+  "error": {
+    "invalid_format": "",
+    "not_found": "",
+    "_comment_not_found": "{{user}}",
+    "no_mmr": "",
+    "_comment_no_mmr": "{{user}}",
+    "generic": ""
+  },
+  "fields": {
+    "current_rank": "",
+    "elo": "",
+    "last_match": "",
+    "highest_rank": "",
+    "account_level": "",
+    "season_stats": "",
+    "_comment_season_stats": "{{season}}",
+    "no_season_data": "",
+    "season_value": "",
+    "_comment_season_value": "{{wins}}, {{games}}, {{rank}}, {{winrate}}"
+  },
+  "footer": {
+    "region": "",
+    "_comment_region": "{{region}}"
+  },
+  "success": {
+    "message": ""
+  }
+}
