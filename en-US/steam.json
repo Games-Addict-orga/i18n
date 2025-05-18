@@ -1,0 +1,30 @@
+{
+  "no_player": "No information found for this player.",
+  "no_stats": "No stats found for this player.",
+  "no_map_stats": "No map stats available for this player.",
+  "select_stat_placeholder": "Select a stat to display",
+  "select_prompt": "Choose a stat to display for {{player}}:",
+  "select_prompt_weapons": "Choose a weapon stat to display for {{player}}:",
+  "displaying_stat_for": "Displaying stats for {{type}}:",
+  "interaction_expired": "The interaction has expired.",
+  "interaction_failed": "Failed to process your selection. Please try again.",
+  "error_retrieving": "An error occurred while retrieving the stats: {{error}}",
+  "embed_title": "CS:GO Statistics for {{player}}",
+  "weapon_embed_title": "CS:GO Weapon Stats for {{player}}",
+  "no_data_selected": "No statistics available for the selected category.",
+  "data_footer": "Data provided by Steam API",
+  "description": {
+    "total_shots": "Total shots fired.",
+    "total_hits": "Total hits made.",
+    "total_kills": "Total kills made."
+  },
+  "fields": {
+    "total_kills": "Kills (Total)",
+    "total_deaths": "Deaths (Total)",
+    "kd_ratio": "K/D Ratio",
+    "total_time": "Time Played (Total)",
+    "total_wins": "Victories (Total)",
+    "last_kills": "Last Match - Kills",
+    "last_deaths": "Last Match - Deaths"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Statistic: {{user}}",
+  "footer": "Statistic: {{user}} -- {{platform}}",
+  "error": "An error has occurred: `{{error}}`. Please check that you have typed the command correctly.\nExample: `/help apexlegends`"
+}

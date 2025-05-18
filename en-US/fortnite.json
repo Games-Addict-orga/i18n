@@ -1,0 +1,10 @@
+{
+  "embed": {
+    "title": "{{user}} — {{category}}",
+    "description": "**Battle Pass**\n• Level: {{level}}\n• Progress: {{progress}}%"
+  },
+  "error": {
+    "retrieving": "An error occurred: `{{error}}`. Please check your input or try again later.",
+    "api_generic": "An API error occurred, please try again later."
+  }
+}

@@ -1,0 +1,82 @@
+
+        {
+        "error": {
+            "generic": "❌ An unexpected error occurred.",
+            "invalid_tag": "❌ The tag you entered is invalid.",
+            "missing_permission": "❌ I don't have the required permissions."
+        },
+        "success": {
+            "profile_saved": "✅ Your profile has been saved!",
+            "language_set": "🌍 Your language has been updated to {{language}}.",
+            "error_lang": "❌ Failed to update your language. Please try again later."
+        },
+        "cooldown": "⏳ Please wait {{time}} seconds before reusing this command.",
+
+        "botinfo": {
+        "description": "{{bot}} is a bot that allows you to have statistics on different games.",
+        "section": {
+            "bot": "🤖 Bot",
+            "vps": "🖥️ Virtual Private Server",
+            "links": "🔗 Links"
+        },
+        "fields": {
+            "developer": "Developer",
+            "version": "Version",
+            "guilds": "Guilds",
+            "users": "Users",
+            "uptime": "Uptime",
+            "client": "Client",
+            "process": "Process",
+            "discordjs": "Discord.js",
+            "ram": "RAM usage",
+            "shards": "Shards",
+            "processors": "Processors",
+            "core": "Core",
+            "os": "Operating System",
+            "arch": "Arch",
+            "totalram": "RAM",
+            "vps_uptime": "Uptime",
+            "node": "Node.js"
+        }
+        },
+        "help": {
+            "not_found": "Command not found.",
+            "embed": {
+            "description": "> What is {{bot}}? \nGames'Addict is a bot that provides statistics on different games.\n > We are aware of possible bugs!\n If you find one, please report it in our [support server]({{support}}).",
+            "fields": {
+                "name": "📝 Name",
+                "usage": "✏️ Usage",
+                "description": "📋 Description",
+                "example": "📋 Example"
+            }
+            }
+        },
+        "ping": {
+        "title": "{{bot}}'s Ping",
+        "roundtrip": "Roundtrip",
+        "api": "API"
+    },
+    "shard": {
+    "not_found": "Guild not found.",
+    "status": "The server **{{name}}** is on shard **{{id}}**, Status **{{status}}**, Ping **{{ping}} ms**",
+    "field": {
+        "id": "Shard ID",
+        "name": "Name",
+        "status": "Status",
+        "guilds": "Guilds",
+        "ping": "Ping",
+        "uptime": "Uptime"
+    },
+    "button": {
+        "previous": "◀",
+        "next": "▶",
+        "stop": "❌"
+    }
+        },
+    "languages": {
+        "en-US": "English (US)",
+        "fr-FR": "French (FR)",
+        "es-ES": "Spanish (ES)",
+        "de-DE": "German (DE)"
+    }
+}

@@ -1,0 +1,143 @@
+{
+  "bsbrawlers": {
+    "embed_title": "🟡 Brawlers of {{user}}",
+    "footer": "Page {{page}}/{{total}}",
+    "brawler_stats": "🆙 **Level**: {{level}}  \n🏆 **Trophies**: {{trophies}}  \n🔝 **Highest Trophies**: {{highest}}  \n🎖️ **Rank**: {{rank}}"
+  },
+
+  "bsclub": {
+    "title": "{{name}}'s Stats",
+    "no_description": "No description",
+    "fields": {
+      "tag": "Tag",
+      "members": "Members",
+      "type": "Club Type",
+      "trophies": "Trophies Required & Trophies",
+      "location": "Location"
+    },
+    "footer": "Requested by {{user}}",
+    "global": "Global"
+  
+},
+
+  "bsplayer": {
+    "title": "{{name}}'s Brawl Stars Stats",
+    "no_club": "Not in a club",
+    "fields": {
+      "trophies": "Trophies & Highest",
+      "current": "Trophies",
+      "highest": "Highest",
+      "level_victories": "Exp Level & Victories",
+      "level": "Exp Level",
+      "owned_brawlers": "Owned Brawlers",
+      "robo_big": "Best Robo Rumble Time & Big Brawler",
+      "robo": "Best Time",
+      "big": "Big Brawler",
+      "club": "Club"
+    },
+    "footer": "Requested by {{user}}"
+  },
+
+    "coclanstats": {
+    "title": "Statistics for Clan {{name}}",
+    "no_description": "No description available",
+    "fields": {
+      "tag": "🌟 Tag",
+      "type": "🏰 Type",
+      "description": "📜 Description",
+      "location": "🌍 Location",
+      "level": "⚔️ Clan Level",
+      "points": "🏅 Clan Points",
+      "members": "👥 Members",
+      "war": "🏆 War Stats",
+      "war_wins": "War Wins",
+      "war_streak": "War Win Streak",
+      "war_freq": "War Frequency",
+      "war_log": "War Log Public",
+      "chat_lang": "💬 Chat Language",
+      "league": "🏅 War League"
+    },
+    "footer": "Requested by {{user}}"
+  },
+
+    "coc": {
+		"invalid_tag": "❌ Invalid tag.",
+		"home_troops_title": "Home Village Troops",
+		"builderBase_troops_title": "Builder Base Troops",
+		"heroes_title": "Heroes",
+		"embed_title": "Statistics for Player **{{player}}**",
+		"tag": "🌟 Tag",
+		"th_level": "🏰 Town Hall Level",
+		"xp_level": "⚔️ XP Level",
+		"trophies": "🏆 Trophies",
+		"best": "Best",
+		"war_stars": "⭐ War Stars",
+		"bh_level": "🔨 Builder Hall Level",
+		"bh_trophies": "🏆 Builder Trophies",
+		"role": "👥 Role",
+		"donations": "📦 Donations",
+		"given": "Given",
+		"received": "Received",
+		"clan": "🏅 Clan",
+		"no_clan": "No Clan",
+		"legend_stats": "📊 Legend League Stats",
+		"current_season": "Current Season",
+		"best_season": "Best Season",
+		"rank": "Rank",
+		"legend_trophies": "Legend Trophies",
+		"league": "🌍 League",
+        "home_troops": "Home Village Troops",
+        "builder_troops": "Builder Base Troops",
+        "level": "Level",
+        "page": "Page",
+        "heroes_for": "Heroes for",
+        "btn_home_troops": "View Home Village Troops",
+        "btn_builder_troops": "View Builder Base Troops",
+        "btn_heroes": "View Heroes",
+        "btn_back_stats": "Back to Player Stats",
+        "btn_prev": "Previous Page",
+        "btn_next": "Next Page",
+        "view_home_troops": "View Home Village Troops",
+        "view_builder_troops": "View Builder Base Troops",
+        "view_heroes": "View Heroes",
+        "back_to_stats": "Back to Player Stats",
+        "previous_page": "Previous Page",
+        "next_page": "Next Page",
+        "builder_troops_title": "Builder Base Troops"
+	},
+    "cr": {
+        "no_description": "No description available",
+        "stats_field": "<:trophycr:946702333201510432> Statistics ➴",
+        "score": "Score",
+        "war_trophies": "War Trophies",
+        "required_trophies": "Required Trophies",
+        "donations_week": "Donations per Week",
+        "chest_field": "<:WoodenChest:946704432383537193> Chest Information ➴",
+        "chest_status": "Chest Status",
+        "chest_level": "Chest Level",
+        "chest_max_level": "Chest Max Level",
+        "other_info_field": "Other Information ➴",
+        "region": "Region",
+        "members": "Members",
+        "invite_type": "Invite Type",
+        "invalid_tag": "❌ Invalid tag. Make sure you include the # and try again.",
+        "stats_title": "Stats for {{player}}",
+        "league_stats": "**League Statistics**",
+        "current_season": "**Current Season**",
+        "trophies": "Trophies",
+        "best_trophies": "Best Trophies",
+        "player_stats": "**Player Statistics**",
+        "level": "Level",
+        "arena": "Arena",
+        "challenge_stats": "**Challenge Statistics**",
+        "cards_won": "Cards Won",
+        "max_wins": "Max Wins",
+        "tournament_stats": "**Tournament Statistics**",
+        "tournament_battles": "Tournament Battle Count",
+        "next_chest": "**Next Chest**",
+        "next_chest_now": "Next Chest",
+        "requested_by": "Requested by {{user}}",
+        "badges_title": "Badges for {{player}}"
+     }
+
+}

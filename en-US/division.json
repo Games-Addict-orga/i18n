@@ -1,0 +1,13 @@
+{
+  "select_stat_placeholder": "Select stats to view",
+  "stats": {
+    "lifetime": "Lifetime Stats",
+    "pve": "PvE Stats",
+    "darkzone": "Dark Zone Stats",
+    "details": "Play Details"
+  },
+  "embed": {
+    "title": "{{user}} — {{category}}"
+  },
+  "error_retrieving": "An error occurred: {{error}}"
+}

@@ -1,0 +1,14 @@
+{
+  "embed": {
+    "title": "Server stats: {{ip}}",
+    "motd": "**MOTD**",
+    "no_motd": "No MOTD available",
+    "version": "**Version**",
+    "no_version": "No version available",
+    "players": "**Players / Max Players**"
+  },
+  "error": {
+    "offline": "The server appears to be offline.",
+    "retrieving": "An error occurred while fetching server stats."
+  }
+}
