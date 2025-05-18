@@ -1,0 +1,8 @@
+{
+  "title": "Statistiques : {{user}}",
+  "_comment_title": "{{user}}",
+  "footer": "Statistiques : {{user}} -- {{platform}}",
+  "_comment_footer": "{{user}}, {{platform}}",
+  "error": "Une erreur est survenue : `{{error}}`. Vérifie que tu as bien tapé la commande.\nExemple : `/help apexlegends`",
+  "_comment_error": "{{error}}"
+}

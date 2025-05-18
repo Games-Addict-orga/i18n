@@ -1,0 +1,24 @@
+{
+  "error": {
+    "invalid_format": "❌ Format invalide. Utilise `pseudo#tag` (ex. `alyx#EUW`).",
+    "not_found": "❌ Profil **{{user}}** introuvable ou invalide.",
+    "no_mmr": "📉 Aucune donnée MMR trouvée pour **{{user}}**.",
+    "generic": "❌ Une erreur est survenue lors de la récupération des données."
+  },
+  "fields": {
+    "current_rank": "Rang actuel",
+    "elo": "MMR (Elo)",
+    "last_match": "Dernier match",
+    "highest_rank": "Rang le plus élevé",
+    "account_level": "Niveau de compte",
+    "season_stats": "Statistiques Saison {{season}}",
+    "no_season_data": "Aucune donnée",
+    "season_value": "🏆 **{{wins}}** victoires / **{{games}}** parties\n🎯 Rang final : **{{rank}}**\n📊 Taux de victoire : **{{winrate}}%**"
+  },
+  "footer": {
+    "region": "Région : {{region}} • Données via henrikdev.xyz"
+  },
+  "success": {
+    "message": "📊 Statistiques Valorant récupérées :"
+  }
+}

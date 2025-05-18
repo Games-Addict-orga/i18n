@@ -1,0 +1,13 @@
+{
+  "embed": {
+    "title": "{{user}} — {{category}}",
+    "_comment_title": "{{user}}, {{category}}",
+    "description": "**Passe de combat**\n• Niveau : {{level}}\n• Progression : {{progress}}%",
+    "_comment_description": "{{level}}, {{progress}}"
+  },
+  "error": {
+    "retrieving": "Une erreur est survenue : `{{error}}`. Vérifiez votre saisie ou réessayez plus tard.",
+    "_comment_retrieving": "{{error}}",
+    "api_generic": "Une erreur API est survenue, veuillez réessayer plus tard."
+  }
+}

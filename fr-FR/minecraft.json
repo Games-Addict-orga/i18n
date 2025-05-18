@@ -1,0 +1,15 @@
+{
+  "embed": {
+    "title": "Statistiques du serveur : {{ip}}",
+    "_comment_title": "{{ip}}",
+    "motd": "**MOTD**",
+    "no_motd": "Aucun MOTD disponible",
+    "version": "**Version**",
+    "no_version": "Aucune version disponible",
+    "players": "**Joueurs / Max Joueurs**"
+  },
+  "error": {
+    "offline": "Le serveur semble être hors ligne.",
+    "retrieving": "Une erreur est survenue lors de la récupération des statistiques du serveur."
+  }
+}

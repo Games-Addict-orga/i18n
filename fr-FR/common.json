@@ -1,0 +1,86 @@
+{
+  "error": {
+    "generic": "",
+    "invalid_tag": "❌ Le tag que vous avez saisi est invalide.",
+    "missing_permission": "❌ Je n’ai pas les permissions requises."
+  },
+  "success": {
+    "profile_saved": "✅ Votre profil a été sauvegardé !",
+    "language_set": "🌍 Votre langue a été mise à jour en {{language}}.",
+    "_comment_language_set": "{{language}}",
+    "error_lang": "❌ Échec de la mise à jour de votre langue. Veuillez réessayer plus tard."
+  },
+  "cooldown": "⏳ Veuillez attendre {{time}} secondes avant de réutiliser cette commande.",
+  "_comment_cooldown": "{{time}}",
+  "botinfo": {
+    "description": "{{bot}} est un bot qui vous permet d’obtenir des statistiques sur différents jeux.",
+    "_comment_description": "{{bot}}",
+    "section": {
+      "bot": "🤖 Bot",
+      "vps": "🖥️ Serveur Privé Virtuel",
+      "links": "🔗 Liens"
+    },
+    "fields": {
+      "developer": "Développeur",
+      "version": "Version",
+      "guilds": "Serveurs",
+      "users": "Utilisateurs",
+      "uptime": "Temps de fonctionnement",
+      "client": "Client",
+      "process": "Processus",
+      "discordjs": "Discord.js",
+      "ram": "RAM utilisée",
+      "shards": "Shards",
+      "processors": "Processeurs",
+      "core": "Cœurs",
+      "os": "Système d’exploitation",
+      "arch": "Architecture",
+      "totalram": "RAM",
+      "vps_uptime": "Uptime",
+      "node": "Node.js"
+    }
+  },
+  "help": {
+    "not_found": "Commande introuvable.",
+    "embed": {
+      "description": "> Qu’est-ce que {{bot}} ? \nGames'Addict est un bot qui fournit des statistiques sur différents jeux.\n > Des bugs sont possibles !\n Si vous en trouvez, merci de les signaler sur notre [serveur support]({{support}}).",
+      "_comment_description": "{{bot}}, {{support}}",
+      "fields": {
+        "name": "📝 Nom",
+        "usage": "✏️ Utilisation",
+        "description": "📋 Description",
+        "example": "📋 Exemple"
+      }
+    }
+  },
+  "ping": {
+    "title": "Ping de {{bot}}",
+    "_comment_title": "{{bot}}",
+    "roundtrip": "Aller-retour",
+    "api": "API"
+  },
+  "shard": {
+    "not_found": "Serveur introuvable.",
+    "status": "Le serveur **{{name}}** est sur le shard **{{id}}**, Statut **{{status}}**, Ping **{{ping}} ms**",
+    "_comment_status": "{{name}}, {{id}}, {{status}}, {{ping}}",
+    "field": {
+      "id": "Shard ID",
+      "name": "Nom",
+      "status": "Statut",
+      "guilds": "Serveurs",
+      "ping": "Ping",
+      "uptime": "Uptime"
+    },
+    "button": {
+      "previous": "◀",
+      "next": "▶",
+      "stop": "❌"
+    }
+  },
+  "languages": {
+    "en-US": "Anglais (US)",
+    "fr-FR": "Français (FR)",
+    "es-ES": "Espagnol (ES)",
+    "de-DE": "Allemand (DE)"
+  }
+}

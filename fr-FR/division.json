@@ -1,0 +1,15 @@
+{
+  "select_stat_placeholder": "Choisissez les statistiques à afficher",
+  "stats": {
+    "lifetime": "Statistiques générales",
+    "pve": "Statistiques PvE",
+    "darkzone": "Statistiques Dark Zone",
+    "details": "Détails des parties"
+  },
+  "embed": {
+    "title": "{{user}} — {{category}}",
+    "_comment_title": "{{user}}, {{category}}"
+  },
+  "error_retrieving": "Une erreur est survenue : {{error}}",
+  "_comment_error_retrieving": "{{error}}"
+}
