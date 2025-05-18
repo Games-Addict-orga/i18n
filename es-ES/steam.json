@@ -1,0 +1,36 @@
+{
+  "no_player": "",
+  "no_stats": "",
+  "no_map_stats": "",
+  "select_stat_placeholder": "",
+  "select_prompt": "",
+  "_comment_select_prompt": "{{player}}",
+  "select_prompt_weapons": "",
+  "_comment_select_prompt_weapons": "{{player}}",
+  "displaying_stat_for": "",
+  "_comment_displaying_stat_for": "{{type}}",
+  "interaction_expired": "",
+  "interaction_failed": "",
+  "error_retrieving": "",
+  "_comment_error_retrieving": "{{error}}",
+  "embed_title": "",
+  "_comment_embed_title": "{{player}}",
+  "weapon_embed_title": "",
+  "_comment_weapon_embed_title": "{{player}}",
+  "no_data_selected": "",
+  "data_footer": "",
+  "description": {
+    "total_shots": "",
+    "total_hits": "",
+    "total_kills": ""
+  },
+  "fields": {
+    "total_kills": "",
+    "total_deaths": "",
+    "kd_ratio": "",
+    "total_time": "",
+    "total_wins": "",
+    "last_kills": "",
+    "last_deaths": ""
+  }
+}

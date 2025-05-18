@@ -1,0 +1,15 @@
+{
+  "embed": {
+    "title": "",
+    "_comment_title": "{{ip}}",
+    "motd": "",
+    "no_motd": "",
+    "version": "",
+    "no_version": "",
+    "players": ""
+  },
+  "error": {
+    "offline": "",
+    "retrieving": ""
+  }
+}

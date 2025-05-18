@@ -1,0 +1,15 @@
+{
+  "select_stat_placeholder": "",
+  "stats": {
+    "lifetime": "",
+    "pve": "",
+    "darkzone": "",
+    "details": ""
+  },
+  "embed": {
+    "title": "",
+    "_comment_title": "{{user}}, {{category}}"
+  },
+  "error_retrieving": "",
+  "_comment_error_retrieving": "{{error}}"
+}

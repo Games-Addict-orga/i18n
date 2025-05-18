@@ -1,0 +1,13 @@
+{
+  "embed": {
+    "title": "",
+    "_comment_title": "{{user}}, {{category}}",
+    "description": "",
+    "_comment_description": "{{level}}, {{progress}}"
+  },
+  "error": {
+    "retrieving": "",
+    "_comment_retrieving": "{{error}}",
+    "api_generic": ""
+  }
+}
