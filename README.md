@@ -14,7 +14,7 @@ We currently maintain the following public repositories:
 
 | Repository | Description |
 |------------|-------------|
-| [translations](https://github.com/Games-Addict/translations) | 🌐 Language files and community-driven translation system |
+| [translations](https://github.com/Games-Addict-orga/i18n) | 🌐 Language files and community-driven translation system |
 
 ---
 
