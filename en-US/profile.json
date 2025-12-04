@@ -1,0 +1,26 @@
+{
+  "no_profile": "You don't have a profile yet. Use `/linkgame` to get started!",
+  "language": "Language",
+  "last_activity": "Last activity",
+  "linked_games": "Linked games:",
+  "unknown": "Not recorded",
+  "trophies": "trophies",
+  "arena": "arena",
+  "war_stars": "war stars",
+  "brawlers": "brawlers unlocked",
+  "rank": "Rank",
+  "matches": "matches",
+  "wins": "wins",
+  "losses": "losses",
+  "level": "level",
+  "games": {
+    "clashRoyale": "Clash Royale",
+    "clashOfClans": "Clash of Clans",
+    "brawlStars": "Brawl Stars",
+    "valorant": "Valorant",
+    "steam": "Steam",
+    "fortnite": "Fortnite",
+    "minecraft": "Minecraft"
+  }
+
+}

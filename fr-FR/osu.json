@@ -1,25 +1,9 @@
 {
-  "embed": {
-    "title": "Statistiques pour {{user}}",
-    "_comment_title": "{{user}}",
-    "footer": "Statistiques pour {{user}}",
-    "_comment_footer": "{{user}}"
-  },
-  "fields": {
-    "level": "Niveau",
-    "pp": "PP",
-    "playcount": "Parties jouées",
-    "ranked_score": "Score classé",
-    "rank_world": "Classement mondial",
-    "country": "Pays",
-    "count_ss": "Nombre de SS",
-    "count_ssh": "Nombre de SSH",
-    "count_s": "Nombre de S",
-    "count_sh": "Nombre de SH",
-    "count_a": "Nombre de A"
-  },
-  "error": {
-    "not_found": "Joueur non trouvé.",
-    "retrieving": "Une erreur est survenue, veuillez vérifier les informations saisies."
-  }
+  "title": "Statistiques osu! — {{user}} ({{mode}})",
+  "pp": "Points de Performance (PP)",
+  "global_rank": "Rang Global",
+  "country_rank": "Rang National",
+  "accuracy": "Précision",
+  "play_time": "Temps de jeu",
+  "select_mode": "Sélectionne un mode"
 }

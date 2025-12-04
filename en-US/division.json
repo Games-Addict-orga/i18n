@@ -1,13 +1,19 @@
 {
-  "select_stat_placeholder": "Select stats to view",
-  "stats": {
-    "lifetime": "Lifetime Stats",
-    "pve": "PvE Stats",
-    "darkzone": "Dark Zone Stats",
-    "details": "Play Details"
-  },
   "embed": {
-    "title": "{{user}} — {{category}}"
+    "title": "Division 2 – {{user}} • {{category}}"
   },
-  "error_retrieving": "An error occurred: {{error}}"
+
+  "stats": {
+    "lifetime": "Lifetime",
+    "pve": "PvE",
+    "darkzone": "Dark Zone",
+    "details": "Detailed Stats"
+  },
+
+  "select_stat_placeholder": "Select a category to display stats",
+  "no_data": "No statistics available for this category.",
+
+  "error_generic": "❌ An error occurred while retrieving Division 2 stats.",
+  "error_rate_limit": "⚠️ API rate limit reached. Please try again later.",
+  "error_not_found": "❌ Player not found or profile set to private."
 }

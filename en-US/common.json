@@ -1,47 +1,45 @@
-
-        {
-        "error": {
-            "generic": "❌ An unexpected error occurred.",
-            "invalid_tag": "❌ The tag you entered is invalid.",
-            "missing_permission": "❌ I don't have the required permissions."
-        },
-        "success": {
-            "profile_saved": "✅ Your profile has been saved!",
-            "language_set": "🌍 Your language has been updated to {{language}}.",
-            "error_lang": "❌ Failed to update your language. Please try again later."
-        },
-        "cooldown": "⏳ Please wait {{time}} seconds before reusing this command.",
-
-        "botinfo": {
-        "description": "{{bot}} is a bot that allows you to have statistics on different games.",
+{
+    "error": {
+        "generic": "❌ An unexpected error occurred.",
+        "invalid_tag": "❌ The tag you entered is invalid.",
+        "missing_permission": "❌ I don't have the required permissions."
+    },
+    "success": {
+        "profile_saved": "✅ Your profile has been saved!",
+        "language_set": "🌍 Your language has been updated to {{language}}.",
+        "error_lang": "❌ Failed to update your language. Please try again later."
+    },
+    "cooldown": "⏳ Please wait {{time}} seconds before reusing this command.",
+    "botinfo": {
+        "description": "Here are all the technical statistics and information about {{bot}}.",
         "section": {
             "bot": "🤖 Bot",
-            "vps": "🖥️ Virtual Private Server",
-            "links": "🔗 Links"
+            "vps": "🖥️ Server",
+            "links": "🔗 Useful Links"
         },
         "fields": {
             "developer": "Developer",
             "version": "Version",
-            "guilds": "Guilds",
+            "guilds": "Servers",
             "users": "Users",
             "uptime": "Uptime",
             "client": "Client",
             "process": "Process",
-            "discordjs": "Discord.js",
-            "ram": "RAM usage",
+            "discordjs": "discord.js",
+            "ram": "RAM Usage",
             "shards": "Shards",
-            "processors": "Processors",
-            "core": "Core",
-            "os": "Operating System",
-            "arch": "Arch",
-            "totalram": "RAM",
-            "vps_uptime": "Uptime",
+            "processors": "Processor",
+            "core": "Cores",
+            "os": "OS",
+            "arch": "Architecture",
+            "totalram": "Total RAM",
+            "vps_uptime": "Server Uptime",
             "node": "Node.js"
         }
-        },
-        "help": {
-            "not_found": "Command not found.",
-            "embed": {
+    },
+    "help": {
+        "not_found": "Command not found.",
+        "embed": {
             "description": "> What is {{bot}}? \nGames'Addict is a bot that provides statistics on different games.\n > We are aware of possible bugs!\n If you find one, please report it in our [support server]({{support}}).",
             "fields": {
                 "name": "📝 Name",
@@ -49,30 +47,36 @@
                 "description": "📋 Description",
                 "example": "📋 Example"
             }
-            }
-        },
-        "ping": {
-        "title": "{{bot}}'s Ping",
+        }
+    },
+    "ping": {
+        "title": "{{bot}} — Ping",
         "roundtrip": "Roundtrip",
-        "api": "API"
+        "api": "API Ping",
+        "status_label": "Status",
+        "status": {
+            "good": "🟢 Excellent",
+            "medium": "🟡 Moderate",
+            "bad": "🔴 High"
+        }
     },
     "shard": {
-    "not_found": "Guild not found.",
-    "status": "The server **{{name}}** is on shard **{{id}}**, Status **{{status}}**, Ping **{{ping}} ms**",
-    "field": {
-        "id": "Shard ID",
-        "name": "Name",
-        "status": "Status",
-        "guilds": "Guilds",
-        "ping": "Ping",
-        "uptime": "Uptime"
-    },
-    "button": {
-        "previous": "◀",
-        "next": "▶",
-        "stop": "❌"
-    }
+        "not_found": "Guild not found.",
+        "status": "The server **{{name}}** is on shard **{{id}}**, Status **{{status}}**, Ping **{{ping}} ms**",
+        "field": {
+            "id": "Shard ID",
+            "name": "Name",
+            "status": "Status",
+            "guilds": "Guilds",
+            "ping": "Ping",
+            "uptime": "Uptime"
         },
+        "button": {
+            "previous": "◀",
+            "next": "▶",
+            "stop": "❌"
+        }
+    },
     "languages": {
         "en-US": "English (US)",
         "fr-FR": "French (FR)",

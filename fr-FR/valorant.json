@@ -1,29 +1,23 @@
 {
-  "error": {
-    "invalid_format": "",
-    "not_found": "",
-    "_comment_not_found": "{{user}}",
-    "no_mmr": "",
-    "_comment_no_mmr": "{{user}}",
-    "generic": ""
-  },
-  "fields": {
-    "current_rank": "",
-    "elo": "",
-    "last_match": "",
-    "highest_rank": "",
-    "account_level": "",
-    "season_stats": "",
-    "_comment_season_stats": "{{season}}",
-    "no_season_data": "",
-    "season_value": "",
-    "_comment_season_value": "{{wins}}, {{games}}, {{rank}}, {{winrate}}"
-  },
-  "footer": {
-    "region": "",
-    "_comment_region": "{{region}}"
-  },
-  "success": {
-    "message": ""
-  }
+  "loaded_from_cache": "⚡ Chargé depuis le cache !",
+  "invalid_format": "❌ Format invalide. Utilise : pseudo#tag",
+  "not_found": "❌ Le joueur {{user}} est introuvable.",
+  "no_mmr": "❌ Aucune donnée MMR disponible.",
+  "generic_error": "❌ Une erreur est survenue lors de la récupération des statistiques Valorant.",
+
+  "stats_for": "Statistiques Valorant — {{user}}",
+
+  "current_rank": "Rang Actuel",
+  "elo": "ÉLO",
+  "last_match": "Dernier Match",
+  "highest_rank": "Rang Maximum",
+  "account_level": "Niveau de Compte",
+
+  "season_stats_title": "Statistiques Saison {{season}}",
+  "season_wins": "Victoires",
+  "season_games": "Parties",
+  "season_final_rank": "Rang Final",
+  "season_winrate": "Taux de Victoires",
+
+  "region": "Région"
 }

@@ -66,6 +66,7 @@
 		"builderBase_troops_title": "Builder Base Troops",
 		"heroes_title": "Heroes",
 		"embed_title": "Statistics for Player **{{player}}**",
+    "for_player": "for {{player}}",
 		"tag": "🌟 Tag",
 		"th_level": "🏰 Town Hall Level",
 		"xp_level": "⚔️ XP Level",

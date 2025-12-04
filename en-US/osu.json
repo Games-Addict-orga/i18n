@@ -1,23 +1,9 @@
 {
-"embed": {
-    "title": "Statistics for {{user}}",
-    "footer": "Statistics for {{user}}"
-},
-"fields": {
-    "level": "Level",
-    "pp": "PP",
-    "playcount": "Play Count",
-    "ranked_score": "Ranked Score",
-    "rank_world": "World Rank",
-    "country": "Country",
-    "count_ss": "Count Rank SS",
-    "count_ssh": "Count Rank SSH",
-    "count_s": "Count Rank S",
-    "count_sh": "Count Rank SH",
-    "count_a": "Count Rank A"
-},
-"error": {
-    "not_found": "Player not found.",
-    "retrieving": "An error occurred, please check the information you entered."
-}
+  "title": "osu! Stats — {{user}} ({{mode}})",
+  "pp": "Performance Points (PP)",
+  "global_rank": "Global Rank",
+  "country_rank": "Country Rank",
+  "accuracy": "Accuracy",
+  "play_time": "Play Time",
+  "select_mode": "Choose a gamemode"
 }

@@ -1,24 +1,23 @@
 {
-  "error": {
-    "invalid_format": "❌ Invalid format. Use `username#tag` (e.g. `alyx#EUW`).",
-    "not_found": "❌ Profile **{{user}}** not found or invalid.",
-    "no_mmr": "📉 No MMR data found for **{{user}}**.",
-    "generic": "❌ An error occurred while retrieving the data."
-  },
-  "fields": {
-    "current_rank": "Current Rank",
-    "elo": "MMR (Elo)",
-    "last_match": "Last Match",
-    "highest_rank": "Highest Rank",
-    "account_level": "Account Level",
-    "season_stats": "Season {{season}} Stats",
-    "no_season_data": "No data",
-    "season_value": "🏆 **{{wins}}** wins / **{{games}}** games\n🎯 Final Rank: **{{rank}}**\n📊 Winrate: **{{winrate}}%**"
-  },
-  "footer": {
-    "region": "Region: {{region}} • Data via henrikdev.xyz"
-  },
-  "success": {
-    "message": "📊 Valorant stats retrieved:"
-  }
+  "loaded_from_cache": "⚡ Loaded from cache!",
+  "invalid_format": "❌ Invalid format. Use: username#tag",
+  "not_found": "❌ Player {{user}} not found.",
+  "no_mmr": "❌ No MMR data available.",
+  "generic_error": "❌ An error occurred while retrieving Valorant stats.",
+
+  "stats_for": "Valorant Stats for {{user}}",
+
+  "current_rank": "Current Rank",
+  "elo": "ELO",
+  "last_match": "Last Match",
+  "highest_rank": "Highest Rank",
+  "account_level": "Account Level",
+
+  "season_stats_title": "Season {{season}} Stats",
+  "season_wins": "Wins",
+  "season_games": "Games",
+  "season_final_rank": "Final Rank",
+  "season_winrate": "Winrate",
+
+  "region": "Region"
 }

@@ -1,5 +1,8 @@
 {
-  "title": "Statistic: {{user}}",
-  "footer": "Statistic: {{user}} -- {{platform}}",
-  "error": "An error has occurred: `{{error}}`. Please check that you have typed the command correctly.\nExample: `/help apexlegends`"
+  "title": "Apex Legends – {{user}}",
+  "footer": "{{user}} • Platform: {{platform}}",
+  "error_rate_limit": "⚠️ API rate limit reached. Please try again later.",
+  "error_api": "❌ API request failed ({{status}} – {{text}}).",
+  "error_generic": "❌ An error occurred: {{error}}",
+  "no_rank": "Unranked"
 }

@@ -1,15 +1,19 @@
 {
-  "select_stat_placeholder": "Choisissez les statistiques à afficher",
+  "embed": {
+    "title": "The Division 2 – {{user}} • {{category}}"
+  },
+
   "stats": {
     "lifetime": "Statistiques générales",
-    "pve": "Statistiques PvE",
-    "darkzone": "Statistiques Dark Zone",
-    "details": "Détails des parties"
+    "pve": "PvE",
+    "darkzone": "Dark Zone",
+    "details": "Détails des statistiques"
   },
-  "embed": {
-    "title": "{{user}} — {{category}}",
-    "_comment_title": "{{user}}, {{category}}"
-  },
-  "error_retrieving": "Une erreur est survenue : {{error}}",
-  "_comment_error_retrieving": "{{error}}"
+
+  "select_stat_placeholder": "Choisis une catégorie de statistiques",
+  "no_data": "Aucune statistique disponible pour cette catégorie.",
+
+  "error_generic": "❌ Une erreur est survenue lors de la récupération des statistiques Division 2.",
+  "error_rate_limit": "⚠️ Limite d’API atteinte. Réessaye plus tard.",
+  "error_not_found": "❌ Joueur introuvable ou profil privé."
 }
